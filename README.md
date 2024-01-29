@@ -2,6 +2,11 @@
 
 This project is a single-page application built with React and Material-UI to replicate the appearance of the Facebook homepage. It serves as a demonstration of using Material-UI components, theming, and styling techniques. The application does not have a backend and is purely front-end focused. It is designed to be adaptable to various screen sizes and includes an optional dark mode feature.
 
+
+![LIGHT MODE](public/images/light-mode.png)
+![DARK MODE](public/images/dark-mode.png)
+
+
 ## Features
 
 - **Material-UI Components**: Utilizes a variety of Material-UI components to replicate the Facebook homepage layout.
